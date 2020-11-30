@@ -10,4 +10,4 @@ In this work, a multi-class classification supervised learning model has been bu
 - <b>Modeling</b>: random forest model; GBDT; neural network with embedding layer
 - <b>Summary</b>: model comparison and improvements to be done.
 
-For details, please refer to [jupyter notebook]().
+For details, please refer to [jupyter notebook](https://github.com/yuedongwu/shutterfly-assignment/blob/main/category%20prediction.ipynb).
